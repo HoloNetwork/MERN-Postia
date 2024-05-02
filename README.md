@@ -1,4 +1,4 @@
-# MERN-Postia
+# Postia
 
 CRUD (Create, Read, Update, Delete) posting text app. 
 
