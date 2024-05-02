@@ -1,2 +1,3 @@
 # MERN-Postia
- CRUD posting app, using MERN stack
+CRUD (Create, Read, Update, Delete) posting text app.
+Using MERN (MongoDB, Express.js, React.js, Node.js).
