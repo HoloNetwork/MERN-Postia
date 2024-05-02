@@ -1,4 +1,4 @@
-# Postia - Full Stack
+# Postia App
 
 CRUD (Create, Read, Update, Delete) posting text app. 
 
